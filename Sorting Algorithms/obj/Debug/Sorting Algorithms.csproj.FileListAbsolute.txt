@@ -1,0 +1,6 @@
+F:\Projects\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.exe.config
+F:\Projects\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.exe
+F:\Projects\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.pdb
+F:\Projects\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.csprojAssemblyReference.cache
+F:\Projects\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.exe
+F:\Projects\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.pdb
