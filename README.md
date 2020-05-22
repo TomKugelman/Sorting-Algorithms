@@ -1,7 +1,9 @@
 # Sorting-Algorithms
 
 Author: Thomas Kugelman
+
 Language: C#
+
 Framework: .NET 4.2.7
 
 A small collection of simple sorting algorithms of varying time complexity that showcase the importance of efficient algorithms.
