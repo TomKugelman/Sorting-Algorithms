@@ -6,6 +6,8 @@ Language: C#
 
 Framework: .NET 4.2.7
 
+## Description
+
 A small collection of simple sorting algorithms of varying time complexity that showcase the importance of efficient algorithms.
 
 - All of these algorithms listed below were written by hand, no libraries or class methods were used unless absolutely necessary
@@ -21,12 +23,17 @@ A small collection of simple sorting algorithms of varying time complexity that 
 - Linear Search
 - Binary Search
 
+## Notes
+
 While this program still has room for improvement, its main goal is to show off how algorithms that are simple to implament 
 generaly have longer runtimes. This can only be shown with large sets of data (in this program we have arrays of thousands of integers).
 
 Algorithms of various time complexity have marginal differences in runtime at lower data sets, 
 but often more complex and RUNTIME efficient algorithms like O(log N) take longer to implament 
 and thus will not be TIME efficient to implament if the data sets are consistantly low (less than a thousand).
+
+
+## Usage
 
 If you would like to change the size of the data being sorted, navigate to the top of the <main> function 
 and change the local variables "range" and "MAX". 
