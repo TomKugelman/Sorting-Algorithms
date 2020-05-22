@@ -30,13 +30,13 @@ generaly have longer runtimes. This can only be shown with large sets of data (i
 
 Algorithms of various time complexity have marginal differences in runtime at lower data sets, 
 but often more complex and RUNTIME efficient algorithms like O(log N) take longer to implament 
-and thus will not be TIME efficient to implament if the data sets are consistantly low (less than a thousand).
+and thus will not be TIME efficient -how long it takes to code the algorithm- if the data sets are consistantly low (less than a thousand).
 
 
 ## Usage
 
-If you would like to change the size of the data being sorted, navigate to the top of the <main> function 
-and change the local variables "range" and "MAX". 
+If you would like to change the size of the data being sorted, navigate to the top of the "main" function 
+and change the local variables "range" and "MAX" under the "Constants" region. 
 
 Please note that because this program uses only unique numbers (for the sake of clarity when looking at a sorted list)
 "range" MUST be higher than "MAX".
