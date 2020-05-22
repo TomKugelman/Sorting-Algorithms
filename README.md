@@ -8,7 +8,7 @@ Framework: .NET 4.2.7
 
 ## Description
 
-A small collection of simple sorting algorithms of varying time complexity that showcase the importance of efficient algorithms.
+A small collection of simple sorting algorithms of varying time complexities that showcase the importance of efficient algorithms.
 
 - All of these algorithms listed below were written by hand, no libraries or class methods were used unless absolutely necessary
 
