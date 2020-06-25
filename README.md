@@ -10,7 +10,7 @@ Framework: .NET 4.2.7
 
 A small collection of simple sorting algorithms of varying time complexities that showcase the importance of efficient algorithms.
 
-- All of these algorithms listed below were written by hand, no libraries or class methods were used unless absolutely necessary
+- All of these algorithms listed below were written by hand, no libraries or class methods were used to sort or search unless absolutely necessary
 
 ## Algorithms used 
 
