@@ -33,7 +33,7 @@ but often more complex and RUNTIME efficient algorithms like O(log N) take longe
 and thus will not be TIME efficient -how long it takes to code the algorithm- if the data sets are consistantly low (less than a thousand). We can often use built-in algorithms across many languages and libraries, however some processes need very specific custom algorithms to accomplish their task and cannot accept simple parameters like an INT or STRING. These are the situations where we need to seriously think about what algorithm is the most efficient overall.
 
 
-## Usage
+### Usage
 
 If you would like to change the size of the data being sorted, navigate to the top of the "main" function 
 and change the local variables "range" and "MAX" under the "Constants" region. 
