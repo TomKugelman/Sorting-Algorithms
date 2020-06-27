@@ -25,7 +25,7 @@ A small collection of simple sorting algorithms of varying time complexities tha
 
 ## Notes
 
-This Program's main goal is to show off how algorithms that are simple to implement 
+This program's main goal is to show off how algorithms that are simple to implement 
 generaly have longer runtimes. This can only be shown with large sets of data (in this program we have arrays of thousands of integers).
 
 Algorithms of various time complexity have marginal differences in runtime at lower data sets, 
